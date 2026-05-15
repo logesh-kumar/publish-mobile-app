@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "publish-mobile-app",
+  "owner": {
+    "name": "Logesh Kumar",
+    "url": "https://github.com/logesh-kumar"
+  },
+  "plugins": [
+    {
+      "name": "publish-mobile-app",
+      "description": "Automate iOS App Store + Google Play Store publishing for Capacitor, Expo, or Flutter apps — listing copy, screenshots, IPA/AAB upload, reviewer credentials, and fixing common rejection emails.",
+      "version": "1.0.0",
+      "source": "./plugins/publish-mobile-app",
+      "author": {
+        "name": "Logesh Kumar"
+      },
+      "keywords": [
+        "ios",
+        "android",
+        "app-store",
+        "play-store",
+        "fastlane",
+        "gradle-play-publisher",
+        "testflight",
+        "capacitor",
+        "expo",
+        "flutter",
+        "mobile",
+        "publishing"
+      ]
+    }
+  ]
+}
